@@ -1,3 +1,7 @@
+![Made with R](https://img.shields.io/badge/made%20with-R-blue)
+![Project type](https://img.shields.io/badge/type-regression-critical)
+
+
 # Wine Quality Regression - R Project
 
 This project applies regression models on the popular `winequality` dataset (UCI Machine Learning Repository) using R. The goal is to predict the quality score of wines based on their physicochemical properties.
